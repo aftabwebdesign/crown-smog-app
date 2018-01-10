@@ -2,9 +2,9 @@
 <widget id="com.crownsmogcheck.mobileapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Crown Smog</name>
     <description>
-        A blank PhoneGap app.
+        Mobile app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="smogcheckcoupons@gmail.com" href="http://www.smogapps.com">
         PhoneGap Team
     </author>
     <content src="index.html" />
